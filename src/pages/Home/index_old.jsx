@@ -114,7 +114,7 @@ function Home() {
     return (
         <div className=" bg-gray-900 min-h-screen flex flex-col justify-between">
             <main className="p-6">
-                <h1 className="text-3xl font-bold mb-6 text-center text-white mt-6">IEDC EVENTS</h1>
+                <h1 className="text-3xl font-bold mb-6 text-center text-white mt-6">Connect EVENTS</h1>
                 <NavLink to="/scoreboard" className="text-white hover:underline absolute top-5 right-5">View Scoreboard</NavLink>
                 <div className="mb-6 flex justify-center">
                     <input
@@ -332,7 +332,7 @@ function Home() {
                 </div>
             </main>
             <footer className="text-sm py-4 bottom-0 mx-auto w-full text-center  text-white ">
-                <p className="m-0">Crafted with ❤️ by the IEDC Tech Team</p>
+                <p className="m-0">Crafted with ❤️ by the <a href="https:zamil.vercel.app">Convener😌</a> </p>
             </footer>
 
         </div>

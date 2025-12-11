@@ -156,7 +156,7 @@ function ScoreList() {
                         
             </main>
             <footer className="text-sm py-4 bottom-0 mx-auto w-full text-center bg-gray-100 text-gray-800 border-t border-gray-300">
-                <p className="m-0">Crafted with ❤️ by the IEDC Tech Team</p>
+                <p className="m-0">Crafted with ❤️ by the Connnect Tech Team</p>
             </footer>
         </div>
     );

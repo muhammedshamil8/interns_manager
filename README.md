@@ -1,6 +1,6 @@
 # Connect EMEA interns Manager
 
-This is a web application designed for the IEDC EMEA community to manage and track students' scores across various events. The app interacts with Airtable to fetch and store event data, allowing admins to easily manage events and student scores.
+This is a web application designed for the Connect EMEA community to manage and track students' scores across various events. The app interacts with Airtable to fetch and store event data, allowing admins to easily manage events and student scores.
 
 ## Key Features
 
